@@ -3,9 +3,9 @@
 
 
 
-- 👨‍💻 All of my projects are available at [utpanna-pradhan.github.io](https://utpanna-pradhan.github.io)
+- 👨‍💻 All of my projects are available at [utpanna-pradhan.github.io](https://github.com/utpanna-pradhan)
 
-- 📝 Checkout my blogs on [Medium](https://medium.com/@yourmedium)
+- 📝 Checkout my blogs on [Medium](https://medium.com/@utpanna828)
 
 - 📫 reach me: **Utpanna828@gmail.com**
 
